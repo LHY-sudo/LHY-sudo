@@ -26,13 +26,10 @@ Here are some ideas to get you started:
 - 📚**教育**：本科学历，建筑学专业
 - 💻**后端**：Python
 - 📝**前端**：学习中
-- 💼**数据库**：MySQL
-
-**上周编码时长**  
+- 💼**数据库**：MySQL 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 March, 2022 - 20 March, 2022
 
 💬 编程语言: 
 Python
@@ -41,7 +38,7 @@ Python
 Pycharm,vim
 
 💻 操作系统: 
-Windows，Linu
+Windows，Linux
 
 ```
 
