@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://profile-counter.glitch.me/LHY-sudo/count.svg" alt="访客数量"/>
 
-- 📚**教育**：本科学历，建筑学专业
-- 💻**后端**：Python
+- 📚**教育**：本科学历
+- 💻**code**：Python
 - 📝**前端**：学习中
 - 💼**数据库**：MySQL 
 
@@ -54,7 +54,7 @@ Windows，Linux
 > 
 > 下面是我的GitHub统计信息
 
-<a href="https://github.com/LHY-sudo/go-ethereum-code-analysis">
+<a href="https://github.com/LHY-sudo?tab=repositories">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LHY-sudo&show_icons=true" />
 </a>
 </details>
