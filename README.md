@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/LHY-sudo"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
   <a href="https://gitee.com/LHY-sudo"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/sdsdjjd"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
-  <a href="https://wakatime.com/badge/user/87d06d00-9515-4b70-8b81-e24490f24daf.svg" alt="Total time coded since Dec 13 2019" /></a>
+  <a href="https://wakatime.com/@LHY_sudo"><img src="https://wakatime.com/badge/user/87d06d00-9515-4b70-8b81-e24490f24daf.svg" alt="Total time coded since Dec 13 
 </p>
 
 <img align='right' src="https://profile-counter.glitch.me/LHY-sudo/count.svg" alt="访客数量"/>
