@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - 📝**前端**：学习中
 - 💼**数据库**：MySQL 
 
-<!--START_SECTION:waka-->
 ```text
 
 💬 编程语言: 
@@ -43,7 +42,7 @@ Windows，Linux
 ```
 
 
-<!--END_SECTION:waka-->
+
 
 <details>
 <summary>GitHub统计信息</summary>
