@@ -24,20 +24,19 @@ Here are some ideas to get you started:
 <img align='right' src="https://profile-counter.glitch.me/LHY-sudo/count.svg" alt="访客数量"/>
 
     
-- 📚**教育**：本科学历
-- 💻**code**：Python
-- 📝**前端**：Js(学习中)
-- 💼**数据库**：MySQL 
+- 📚**Education**：Bachelor degree
+- 💻**code**：Python,nodejs,solidity,Golang(learning)
+- 💼**Database**：MySQL 
 
 ```text
 
-💬 编程语言: 
-Python
+💬 Code: 
+Python,solidity,nodejs
 
-🔥 常用编辑器: 
-Pycharm,vim
+🔥 IDLE: 
+Pycharm,Vim,Webstorm,Goland
 
-💻 操作系统: 
+💻 System: 
 Windows，Linux
 
 ```
