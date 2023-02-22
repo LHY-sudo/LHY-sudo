@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ```text
 
 💬 Code: 
-Python,solidity,nodejs
+Python,solidity,nodejs,Golang
 
 🔥 IDLE: 
 Pycharm,Vim,Webstorm,Goland
